@@ -1,7 +1,8 @@
 
 <div align="center">
-
-<img width="90%" src="https://files.catbox.moe/msq56h.jpg">
+  
+${\textsf{\color{#fbf89a}' ' The day before the future ' '}}$ 
+<br>
 <br>
 <img width="65%" src="https://files.catbox.moe/mkxtca.png">
 <br>
@@ -11,13 +12,13 @@
 ${\textsf{\color{#fcfed9}⋅───⊱༺ ♰ ༻⊰───⋅}}$ 
 <br>
 ${\textsf{\color{#1d232b}xxxxxxxx}}$ <br>
-${\textsf{\color{#fbf89a}' ' The day before the future ' '}}$ 
+${\textsf{\color{#fbf89a}' ' placeholder ' '}}$ 
 <br>
 ${\textsf{\color{#1d232b}xxxxxxxx}}$ <br>
 ${\textsf{\color{#fcfed9}⋅───⊱༺ ♰ ༻⊰───⋅}}$ 
 <br>
 <br>
-${\textsf{\color{#fbf89a}He/him }}$ <br>
+${\textsf{\color{#fbf89a}placeholder }}$ <br>
 <br>
-<img width="90%" src="https://files.catbox.moe/h4e2lw.png">
+
 ${\textsf{\color{#1d232b}coded by @smallishbeans on github (o゜▽゜)o☆}}$ <br>
