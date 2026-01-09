@@ -1,7 +1,7 @@
 
 <div align="center">
   
-${\textsf{\color{#fbf89a}' ' The day before the future ' '}}$ 
+${\textsf{\color{#F4D6A0}' ' The day before the future ' '}}$ 
 <br>
 <br>
 <img width="65%" src="https://files.catbox.moe/mkxtca.png">
