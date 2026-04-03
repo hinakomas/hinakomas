@@ -11,6 +11,7 @@ ${\textsf{\color{#1d232b}.}}$ <br>
 ${\textsf{\color{#1d232b}.}}$ <br> 
 ${\textsf{\color{#F1D5A1}komaeda ' he/it }}$ <br> 
 ${\textsf{\color{#B49C73}' ' w2i , c+h ' '}}$ <br> 
+${\textsf{\color{#F1D5A1}fictkin ' doubles iwc }}$ <br> 
 <br>
 ${\textsf{\color{#1d232b}.}}$ <br>
 ${\textsf{\color{#fcfed9}・・・・・}}$ 
